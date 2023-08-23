@@ -50,7 +50,7 @@ h5{
 						<li><a href="market.php"><span class="glyphicon glyphicon-grain"> DigitalMarket</a></li>
 						<li><a href="blogView.php"><span class="glyphicon glyphicon-comment"> BLOG</a></li>
 						<li><a href="machinery.php"><i style='font-size:24px;color:white' class='fas'>&#xf0d1;</i>machinery</a></li>
-						<li><a href="govtsch.html">PestDection</a></li>
+						<!--<li><a href="govtsch.html">PestDection</a></li>-->
 						<li><a href="check1.html"></i>weatherAlert</a></li>
                          <li><a href="loan1.php">Loan</a></li>
                          <li><a href="govtsch.html"></i>GScms</a></li>

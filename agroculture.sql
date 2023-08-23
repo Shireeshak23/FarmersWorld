@@ -1,11 +1,4 @@
--- phpMyAdmin SQL Dump
--- version 4.6.4
--- https://www.phpmyadmin.net/
---
--- Host: 127.0.0.1
--- Generation Time: Feb 26, 2018 at 07:52 AM
--- Server version: 5.7.14
--- PHP Version: 5.6.25
+
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
@@ -61,7 +54,7 @@ CREATE TABLE `blogfeedback` (
 --
 
 INSERT INTO `blogfeedback` (`blogId`, `comment`, `commentUser`, `commentPic`, `commentTime`) VALUES
-(19, 'Mast yarr', 'ThePhenom', 'profile0.png', '2018-02-25 13:09:54');
+(19, 'Exellent', 'Shirisha', 'profile0.png', '2022-06-25 13:09:54');
 
 -- --------------------------------------------------------
 
@@ -107,7 +100,7 @@ CREATE TABLE `farmer` (
 --
 
 INSERT INTO `farmer` (`fid`, `fname`, `fusername`, `fpassword`, `fhash`, `femail`, `fmobile`, `faddress`, `factive`, `frating`, `picExt`, `picStatus`) VALUES
-(3, 'Kaivalya Hemant Mendki', 'ThePhenom', '$2y$10$22ezmzHRa9c5ycHmVm5RpOnlT4LwFaDZar1XhmLRJQKGrcVRhPgti', '61b4a64be663682e8cb037d9719ad8cd', 'kmendki98@gmail.com', '8600611198', 'abcde', 0, 0, 'png', 0);
+(3, 'K.sravya', 'Sravya', '$2y$10$22ezmzHRa9c5ycHmVm5RpOnlT4LwFaDZar1XhmLRJQKGrcVRhPgti', '61b4a64be663682e8cb037d9719ad8cd', 'kmendki98@gmail.com', '8600611198', 'abcde', 0, 0, 'png', 0);
 
 -- --------------------------------------------------------
 
@@ -209,7 +202,7 @@ CREATE TABLE `transaction` (
 --
 
 INSERT INTO `transaction` (`tid`, `bid`, `pid`, `name`, `city`, `mobile`, `email`, `pincode`, `addr`) VALUES
-(1, 3, 28, 'sa,j,cns', 'sajc', 'sajch', 'kmendki98@gmail.com', 'sacu', 'ckaskjc');
+(1, 3, 28, 'fruity,k', 'hyderabad', '9603402259', 'fruity@gmail.com', 'sacu', 'ckaskjc');
 
 --
 -- Indexes for dumped tables

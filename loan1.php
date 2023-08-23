@@ -159,17 +159,11 @@ h1
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
 }
-
-
-
-
 .container {
   position: relative;
   text-align: center;
   color: white;
 }
-
-
 .top-left {
   position: absolute;
   top: 8px;
@@ -228,26 +222,7 @@ color:black;
 
 
 
-		<!-- Banner -->
-			<!--<section id="banner" class="wrapper">
-				<div class="container">
-				<h2>FarmersWorld.in</h2>
-				<p>Your Product Our Market</p>
-				<br><br>
-				<center>
-					<div class="row uniform">
-						<div class="6u 12u$(xsmall)">
-							<button class="button fit" onclick="document.getElementById('id01').style.display='block'" style="width:auto">LOGIN</button>
-						</div>
-
-						<div class="6u 12u$(xsmall)">
-							<button class="button fit" onclick="document.getElementById('id02').style.display='block'" style="width:auto">REGISTER</button>
-						</div>
-					</div>
-				</center>
-
-
-			</section>-->
+		
 
 		<!-- One -->
 			<section id="one" class="wrapper style1 align-center">
@@ -292,7 +267,7 @@ color:black;
 		<div class="footer-center">
 			<div>
 				<i class="fa fa-map-marker"></i>
-				<p style="font-size:20px">FarmersWorld.in<span>Spark Team</span></p>
+				<p style="font-size:20px">FarmersWorld.in<span>Shireesha Hyderabad</span></p>
 			</div>
 			<div>
 				<i class="fa fa-phone"></i>
@@ -300,14 +275,14 @@ color:black;
 			</div>
 			<div>
 				<i class="fa fa-envelope"></i>
-				<p style="font-size:20px"><a href="shireeshakaligota@gmail.com" style="color:white">spark@gmail.com</a></p>
+				<p style="font-size:20px"><a href="shireeshakaligota@gmail.com" style="color:white">FarmersWorld@gmail.com</a></p>
 			</div>
 		</div>
 
 		<div class="footer-right">
 			<p class="footer-company-about" style="color:white">
 				<span style="font-size:20px"><b>About FarmersWorld.in</b></span>
-				AgroCulture is e-commerce trading platform for grains & grocerries...
+			FarmersWorld is e-commerce trading platform for grains & grocerries...
 			</p>
 			<div class="footer-icons">
 				<a  href="#"><i style="margin-left: 0;margin-top:5px;"class="fa fa-facebook"></i></a>
